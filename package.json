@@ -26,6 +26,7 @@
 },
 "license" : "MIT",
 "keywords": ["screenshot", "code", "social", "image", "download","share"],
+"icon": "screenshotify.png",
   "scripts": {
     "vscode:prepublish": "pnpm run package",
     "compile": "pnpm run check-types && pnpm run lint && node esbuild.js",
