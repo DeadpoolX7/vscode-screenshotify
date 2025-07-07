@@ -19,6 +19,10 @@
     }
   ]
 },
+"repository": {
+  "type" : "git",
+  "url" : "https://github.com/DeadpoolX7/vscode-screenshotify"
+},
 "license" : "MIT",
 "keywords": ["screenshot", "code", "social", "image", "download","share"],
   "scripts": {
