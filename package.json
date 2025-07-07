@@ -19,6 +19,7 @@
     }
   ]
 },
+"publisher": "deadpoolx7",
 "repository": {
   "type" : "git",
   "url" : "https://github.com/DeadpoolX7/vscode-screenshotify"
