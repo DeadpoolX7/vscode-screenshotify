@@ -28,6 +28,13 @@
 
 ---
 
+## 📽️ Demo Video
+
+
+https://github.com/user-attachments/assets/b4c46771-c0e2-4c85-938d-460b83568d35
+
+---
+
 ## ⚙️ Requirements
 
 - Visual Studio Code v1.101.0 or higher.
