@@ -1,3 +1,4 @@
+<a href="https://www.producthunt.com/products/vscode-screenshotify?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-vscode&#0045;screenshotify" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=991745&theme=light&t=1752393125070" alt="vscode&#0045;screenshotify - Stunning&#0044;&#0032;elegant&#0032;code&#0032;snippets&#0032;image&#0032;directly&#0032;from&#0032;VS&#0032;Code | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 # Screenshotify
 
 **Screenshotify** is a Visual Studio Code extension that lets you create beautiful screenshots of your code snippets directly from the editor—perfect for sharing on social media or in presentations.
